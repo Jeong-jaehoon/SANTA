@@ -27,3 +27,17 @@ System for Analysis of National Trekking Accidents - SANTA
 2) 모델 개발 - tensorflow, keras
 3) 시스템 개발 - flask, dash, boostrap, plotly, javascript, jquery 
 
+### 시스템
+
+#### 메인화면 (카카오 API 이용)
+![메인화면](https://user-images.githubusercontent.com/52397521/79839086-fa1ed080-83ee-11ea-8071-c004982eb976.png)
+
+#### 텐서보드를 통한 모델 웹 시각화
+![텐서보드 웹 시각화](https://user-images.githubusercontent.com/52397521/79839076-f723e000-83ee-11ea-9ce7-8ace1a7db17a.png)
+
+#### Dash를 이용한 분석 탭
+![Dash 분석 탭](https://user-images.githubusercontent.com/52397521/79839081-f8550d00-83ee-11ea-8d19-93634f57517d.png)
+
+#### 기타정보
+![기타 정보](https://user-images.githubusercontent.com/52397521/79839084-f8eda380-83ee-11ea-8f89-2b1821de78a3.png)
+
